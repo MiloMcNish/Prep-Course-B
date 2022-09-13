@@ -1,0 +1,14 @@
+Variables: Una variable es el nombre que se le asigna a un valor determinado, por ejemplo: x vale 3; entonces la variable X es = 3.
+
+Strings: una String es una cadena de texto, la unión de varios caracteres o letras que conforman una linea de texto
+
+Booleans: son las variables asignadas para representar si algo es verdadero o es falso
+
+Undefined: Es la forma de establecer que una variable existe pero que aún no tiene un valor asignado
+
+Null: Es la forma de establecer o decir que una variable existe pero no tiene valor alguno.
+
+Operadores: es la forma en la que ejecutamos operaciones entre los distintos datos.
+
+
+== vs ===:  '==' hace referencia al valor y '===' hace referencia al tipo de dato.    Entonces el primero compara si dos valores son iguales y el segundo si son el mismo tipo de dato independientemente de si tienen el mismo valor.
